@@ -33,7 +33,6 @@ from sklearn.model_selection import cross_val_score, KFold
 # visualization
 
 * matplotlib
-![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/79857acc-924d-4675-b0b7-892f193db953)
 
 
   
@@ -42,6 +41,9 @@ from sklearn.model_selection import cross_val_score, KFold
 * DecisionTree
 * confusion matrix
 * KFold Cross-Validation
+
+
+![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/66e64322-9abe-4858-aa1a-79eb5f55a77f)
 
 ![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/5c353894-40ed-467e-a0eb-9e893e5e8452)
 
