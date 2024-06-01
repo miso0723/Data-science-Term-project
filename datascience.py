@@ -71,7 +71,7 @@ df['Fentanyl'] = df['Fentanyl'].replace(['1-A', '1 POPS', '1 (PTCH)'], 1).astype
 # Change dtype of 'Fentanyl_Analogue' to int64
 df['Fentanyl_Analogue'] = df['Fentanyl_Analogue'].astype('int64')
 
-# Morphine_NotHeroin 열의 특후나 값을 1로 변환
+# Morphine_NotHeroin 열의 특수한 값을 1로 변환
 df['Morphine_NotHeroin'] = df['Morphine_NotHeroin'].replace(['1ES','STOLE MEDS','NO RX BUT STRAWS','PCP NEG'],1).astype(int)
 
 # Drop rows where all specified columns have a value of 0
