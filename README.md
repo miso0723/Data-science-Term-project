@@ -29,9 +29,12 @@ from sklearn.model_selection import cross_val_score, KFold
 * fillna, dropna
 * OneHotEncoder
 
+
 # visualization
 
 * matplotlib
+![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/79857acc-924d-4675-b0b7-892f193db953)
+
 
   
 # Model training & Evaluation
@@ -39,6 +42,9 @@ from sklearn.model_selection import cross_val_score, KFold
 * DecisionTree
 * confusion matrix
 * KFold Cross-Validation
+
+![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/5c353894-40ed-467e-a0eb-9e893e5e8452)
+
 
 
 # dataset: 
