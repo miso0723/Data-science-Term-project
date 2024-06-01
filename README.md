@@ -47,7 +47,7 @@ from sklearn.model_selection import cross_val_score, KFold
 
 ![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/5c353894-40ed-467e-a0eb-9e893e5e8452)
 
-
+<img width="337" alt="스크린샷 2024-06-02 04 29 41" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/2326398b-1f57-463d-b7fa-2c52557badec">
 
 # dataset: 
 https://www.kaggle.com/datasets/ruchi798/drug-overdose-deaths
