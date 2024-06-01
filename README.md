@@ -30,6 +30,9 @@ from sklearn.model_selection import cross_val_score, KFold
 * OneHotEncoding
 
 
+![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/7d5a97d6-d667-428f-bf4c-81cfc32c2b5f)
+
+
   
 # Modeling & Evaluation
 
