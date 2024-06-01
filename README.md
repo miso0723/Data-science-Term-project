@@ -26,10 +26,14 @@ from sklearn.model_selection import cross_val_score, KFold
 
 # Preprocessing
 
-# Model training
+* fillna, dropna
+* OneHotEncoder
 
-# Evaluation
+# Model training & Evaluation
 
+* DecisionTree
+* confusion matrix
+* KFold Cross-Validation
 
 
 # dataset: 
