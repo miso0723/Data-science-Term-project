@@ -30,13 +30,8 @@ from sklearn.model_selection import cross_val_score, KFold
 * OneHotEncoding
 
 
-# visualization
-
-* matplotlib
-
-
   
-# Model training & Evaluation
+# Modeling & Evaluation
 
 * DecisionTree
 * confusion matrix
