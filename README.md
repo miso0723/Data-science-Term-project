@@ -29,6 +29,11 @@ from sklearn.model_selection import cross_val_score, KFold
 * fillna, dropna
 * OneHotEncoder
 
+# visualization
+
+* matplotlib
+
+  
 # Model training & Evaluation
 
 * DecisionTree
