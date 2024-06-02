@@ -30,7 +30,7 @@ from sklearn.model_selection import cross_val_score, KFold
 
 <img width="267" alt="스크린샷 2024-06-02 17 44 39" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/fda089d8-563f-4bb3-bd7a-a3c94b61fa4d">
 
-* visualization after creating Multi_Drug column
+*💉 visualization after creating Multi_Drug column
 <img width="422" alt="스크린샷 2024-06-02 17 47 09" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/09a4171c-3193-482b-9d0f-46728c8c9f64">
 
 <img width="499" alt="스크린샷 2024-06-02 17 46 54" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/d953259b-321a-4188-82a0-430e7bc818f2">
