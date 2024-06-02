@@ -33,6 +33,13 @@ from sklearn.model_selection import cross_val_score, KFold
 
 
 
+<img width="281" alt="스크린샷 2024-06-02 17 47 26" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/818dde8d-0b46-469c-8ebf-c4b88015e961">
+
+<img width="422" alt="스크린샷 2024-06-02 17 47 09" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/09a4171c-3193-482b-9d0f-46728c8c9f64">
+
+<img width="499" alt="스크린샷 2024-06-02 17 46 54" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/d953259b-321a-4188-82a0-430e7bc818f2">
+
+<img width="498" alt="스크린샷 2024-06-02 17 46 39" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/b63b94c2-bace-44ed-b165-d5ffb29653e0">
 
 
   
