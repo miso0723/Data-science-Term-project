@@ -59,5 +59,5 @@ from sklearn.model_selection import cross_val_score, KFold
 <img width="497" alt="스크린샷 2024-06-02 17 40 49" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/83a37186-94d3-4cca-a9d2-6f1f22e0fced">
 
 
-# dataset: 
+# dataset🧐: 
 https://www.kaggle.com/datasets/ruchi798/drug-overdose-deaths
