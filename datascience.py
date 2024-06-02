@@ -31,7 +31,7 @@ df.dropna(subset=['Date', 'Age', 'DeathCity'], inplace=True)
 # 'Date' 열을 datetime 형식으로 변환
 df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
 
-# 'Date' 열을 연도와 월까지만 표시되도록 변환
+# 'Date' 열을 연도까지만 표시되도록 변환
 df['Date'] = df['Date'].dt.to_period('Y')
 
 # 'Age' 열을 정수형으로 반올림
