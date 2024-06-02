@@ -27,8 +27,6 @@ from sklearn.model_selection import cross_val_score, KFold
 # Preprocessing
 
 
-![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/7d5a97d6-d667-428f-bf4c-81cfc32c2b5f)
-
 
   
 # Modeling & Evaluation
@@ -38,6 +36,7 @@ from sklearn.model_selection import cross_val_score, KFold
 * confusion matrix
 * KFold Cross-Validation
 
+![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/7d5a97d6-d667-428f-bf4c-81cfc32c2b5f)
 
 ![image](https://github.com/miso0723/Data-science-Term-project/assets/149980490/66e64322-9abe-4858-aa1a-79eb5f55a77f)
 
