@@ -137,7 +137,7 @@ plt.show()
 residence_city_counts = data['ResidenceCity'].value_counts().head(10)  # Top 10 cities
 plt.figure(figsize=(14, 8))
 residence_city_counts.plot(kind='bar', color='coral')
-plt.title('Top 20 Residence Cities for Drug-Related Deaths')
+plt.title('Top 10 Residence Cities for Drug-Related Deaths')
 plt.xlabel('Residence City')
 plt.ylabel('Count')
 plt.xticks(rotation=45)
@@ -148,7 +148,7 @@ death_city_counts = data['DeathCity'].value_counts().head(10)  # Top 10 cities
 
 plt.figure(figsize=(14, 8))
 death_city_counts.plot(kind='bar', color='lightblue')
-plt.title('Top 20 Death Cities for Drug-Related Deaths')
+plt.title('Top 10 Death Cities for Drug-Related Deaths')
 plt.xlabel('Death City')
 plt.ylabel('Count')
 plt.xticks(rotation=45)
