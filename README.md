@@ -26,6 +26,11 @@ from sklearn.model_selection import cross_val_score, KFold
 
 # Preprocessing
 
+<img width="317" alt="스크린샷 2024-06-02 17 44 13" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/a815da80-90e2-4f29-a164-fd0cefa40278">
+
+<img width="267" alt="스크린샷 2024-06-02 17 44 39" src="https://github.com/miso0723/Data-science-Term-project/assets/149980490/fda089d8-563f-4bb3-bd7a-a3c94b61fa4d">
+
+
 
 
   
